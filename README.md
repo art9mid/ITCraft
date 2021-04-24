@@ -1,9 +1,9 @@
 # IT Craft
 
-Doc [pip](https://docs.google.com/document/d/1JPUKJnZXe7xuqSK6CSgRg0-g40MUhr5D6j6XmVXvHL4/edit).
+[Test task](https://docs.google.com/document/d/1JPUKJnZXe7xuqSK6CSgRg0-g40MUhr5D6j6XmVXvHL4/edit).
 ```bash
 npm i
-npm run start -- --reset-cahce
+npm run start -- --reset-cache
 npm run android
 ```
 ![](https://i.imgur.com/6Hqa53D.png)   
